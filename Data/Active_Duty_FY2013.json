@@ -1,0 +1,250 @@
+[
+    {
+        "Air Force": 12,
+        "Army": 12,
+        "Grade": "GENERAL       -ADMIRAL",
+        "Marine Corps": 4,
+        "Navy": 9,
+        "Total DoD": 37
+    },
+    {
+        "Air Force": 45,
+        "Army": 52,
+        "Grade": "LT GENERAL    -VICE ADMIRAL",
+        "Marine Corps": 18,
+        "Navy": 43,
+        "Total DoD": 158
+    },
+    {
+        "Air Force": 101,
+        "Army": 113,
+        "Grade": "MAJ GENERAL   -REAR ADMIRAL(U)",
+        "Marine Corps": 29,
+        "Navy": 69,
+        "Total DoD": 312
+    },
+    {
+        "Air Force": 147,
+        "Army": 142,
+        "Grade": "BRIG GENERAL  -REAR ADMIRAL(L)",
+        "Marine Corps": 32,
+        "Navy": 115,
+        "Total DoD": 436
+    },
+    {
+        "Air Force": "3,601",
+        "Army": "4,367",
+        "Grade": "COLONEL       -CAPTAIN",
+        "Marine Corps": 679,
+        "Navy": "3,308",
+        "Total DoD": "11,955"
+    },
+    {
+        "Air Force": "10,016",
+        "Army": "10,233",
+        "Grade": "LIEUTENANT COL-COMMANDER",
+        "Marine Corps": "1,895",
+        "Navy": "6,744",
+        "Total DoD": "28,888"
+    },
+    {
+        "Air Force": "14,042",
+        "Army": "17,362",
+        "Grade": "MAJOR         -LT COMMANDER",
+        "Marine Corps": "3,814",
+        "Navy": "10,937",
+        "Total DoD": "46,155"
+    },
+    {
+        "Air Force": "22,743",
+        "Army": "28,081",
+        "Grade": "CAPTAIN       -LIEUTENANT",
+        "Marine Corps": "6,997",
+        "Navy": "17,811",
+        "Total DoD": "75,632"
+    },
+    {
+        "Air Force": "7,193",
+        "Army": "13,861",
+        "Grade": "Ist LIEUTENANT-LIEUTENANT(JG)",
+        "Marine Corps": "3,527",
+        "Navy": "6,552",
+        "Total DoD": "31,133"
+    },
+    {
+        "Air Force": "6,898",
+        "Army": "8,693",
+        "Grade": "2nd LIEUTENANT-ENSIGN",
+        "Marine Corps": "2,194",
+        "Navy": "6,669",
+        "Total DoD": "24,454"
+    },
+    {
+        "Air Force": 0,
+        "Army": 659,
+        "Grade": "CHIEF WARRANT OFFICER W-5",
+        "Marine Corps": 94,
+        "Navy": 77,
+        "Total DoD": 830
+    },
+    {
+        "Air Force": 0,
+        "Army": "2,372",
+        "Grade": "CHIEF WARRANT OFFICER W-4",
+        "Marine Corps": 288,
+        "Navy": 387,
+        "Total DoD": "3,047"
+    },
+    {
+        "Air Force": 0,
+        "Army": "3,896",
+        "Grade": "CHIEF WARRANT OFFICER W-3",
+        "Marine Corps": 594,
+        "Navy": 638,
+        "Total DoD": "5,128"
+    },
+    {
+        "Air Force": 0,
+        "Army": "6,735",
+        "Grade": "CHIEF WARRANT OFFICER W-2",
+        "Marine Corps": 906,
+        "Navy": 502,
+        "Total DoD": "8,143"
+    },
+    {
+        "Air Force": 0,
+        "Army": "2,056",
+        "Grade": "WARRANT OFFICER W-1",
+        "Marine Corps": 167,
+        "Navy": 0,
+        "Total DoD": "2,223"
+    },
+    {
+        "Air Force": null,
+        "Army": null,
+        "Grade": null,
+        "Marine Corps": null,
+        "Navy": null,
+        "Total DoD": null
+    },
+    {
+        "Air Force": "64,798",
+        "Army": "98,634",
+        "Grade": "TOTAL OFFICER",
+        "Marine Corps": "21,238",
+        "Navy": "53,861",
+        "Total DoD": "238,531"
+    },
+    {
+        "Air Force": "2,585",
+        "Army": "3,765",
+        "Grade": "E-9",
+        "Marine Corps": "1,612",
+        "Navy": "2,533",
+        "Total DoD": "10,495"
+    },
+    {
+        "Air Force": "5,136",
+        "Army": "12,266",
+        "Grade": "E-8",
+        "Marine Corps": "3,966",
+        "Navy": "6,091",
+        "Total DoD": "27,459"
+    },
+    {
+        "Air Force": "26,741",
+        "Army": "40,382",
+        "Grade": "E-7",
+        "Marine Corps": "8,778",
+        "Navy": "20,496",
+        "Total DoD": "96,397"
+    },
+    {
+        "Air Force": "41,231",
+        "Army": "61,840",
+        "Grade": "E-6",
+        "Marine Corps": "15,031",
+        "Navy": "45,805",
+        "Total DoD": "163,907"
+    },
+    {
+        "Air Force": "67,668",
+        "Army": "78,627",
+        "Grade": "E-5",
+        "Marine Corps": "27,814",
+        "Navy": "60,636",
+        "Total DoD": "234,745"
+    },
+    {
+        "Air Force": "55,786",
+        "Army": "128,372",
+        "Grade": "E-4",
+        "Marine Corps": "34,587",
+        "Navy": "58,658",
+        "Total DoD": "277,403"
+    },
+    {
+        "Air Force": "51,276",
+        "Army": "57,180",
+        "Grade": "E-3",
+        "Marine Corps": "47,721",
+        "Navy": "40,041",
+        "Total DoD": "196,218"
+    },
+    {
+        "Air Force": "3,487",
+        "Army": "26,193",
+        "Grade": "E-2",
+        "Marine Corps": "22,727",
+        "Navy": "17,636",
+        "Total DoD": "70,043"
+    },
+    {
+        "Air Force": "7,865",
+        "Army": "20,298",
+        "Grade": "E-1",
+        "Marine Corps": "12,374",
+        "Navy": "14,081",
+        "Total DoD": "54,618"
+    },
+    {
+        "Air Force": null,
+        "Army": null,
+        "Grade": null,
+        "Marine Corps": null,
+        "Navy": null,
+        "Total DoD": null
+    },
+    {
+        "Air Force": "261,775",
+        "Army": "428,923",
+        "Grade": "TOTAL ENLISTED",
+        "Marine Corps": "174,610",
+        "Navy": "265,977",
+        "Total DoD": "1,131,285"
+    },
+    {
+        "Air Force": "3,912",
+        "Army": "4,486",
+        "Grade": "CADETS-MIDSHIPMEN",
+        "Marine Corps": 0,
+        "Navy": "4,470",
+        "Total DoD": "12,868"
+    },
+    {
+        "Air Force": "330,485",
+        "Army": "532,043",
+        "Grade": "GRAND TOTAL",
+        "Marine Corps": "195,848",
+        "Navy": "324,308",
+        "Total DoD": "1,382,684"
+    },
+    {
+        "Air Force": null,
+        "Army": null,
+        "Grade": null,
+        "Marine Corps": null,
+        "Navy": null,
+        "Total DoD": null
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "AirForceGoal": "9,296",
+        "ArmyGoal": "18,087",
+        "FY": 2023,
+        "MarineCorpsGoal": "6,213",
+        "NavyGoal": "11,271"
+    },
+    {
+        "AirForceGoal": "12,795",
+        "ArmyGoal": "21,984",
+        "FY": 2022,
+        "MarineCorpsGoal": "11,719",
+        "NavyGoal": "15,693"
+    },
+    {
+        "AirForceGoal": "13,932",
+        "ArmyGoal": "27,412",
+        "FY": 2021,
+        "MarineCorpsGoal": "14,072",
+        "NavyGoal": "17,003"
+    },
+    {
+        "AirForceGoal": "14,858",
+        "ArmyGoal": "26,940",
+        "FY": 2020,
+        "MarineCorpsGoal": "12,986",
+        "NavyGoal": "19,233"
+    },
+    {
+        "AirForceGoal": "15,557",
+        "ArmyGoal": "26,210",
+        "FY": 2019,
+        "MarineCorpsGoal": "14,003",
+        "NavyGoal": "17,625"
+    },
+    {
+        "AirForceGoal": "14,605",
+        "ArmyGoal": "31,430",
+        "FY": 2018,
+        "MarineCorpsGoal": "13,652",
+        "NavyGoal": "18,017"
+    },
+    {
+        "AirForceGoal": "15,094",
+        "ArmyGoal": "27,914",
+        "FY": 2017,
+        "MarineCorpsGoal": "13,383",
+        "NavyGoal": "15,028"
+    },
+    {
+        "AirForceGoal": "14,225",
+        "ArmyGoal": "27,930",
+        "FY": 2016,
+        "MarineCorpsGoal": "12,413",
+        "NavyGoal": "16,537"
+    },
+    {
+        "AirForceGoal": "17,480",
+        "ArmyGoal": "43,614",
+        "FY": 2015,
+        "MarineCorpsGoal": "21,005",
+        "NavyGoal": "25,380"
+    },
+    {
+        "AirForceGoal": "22,467",
+        "ArmyGoal": "49,700",
+        "FY": 2014,
+        "MarineCorpsGoal": "22,187",
+        "NavyGoal": "30,151"
+    },
+    {
+        "AirForceGoal": "21,969",
+        "ArmyGoal": "55,760",
+        "FY": 2013,
+        "MarineCorpsGoal": "24,743",
+        "NavyGoal": "32,692"
+    }
+]

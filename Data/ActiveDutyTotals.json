@@ -1,0 +1,1687 @@
+[
+    {
+        "Grade": "GENERAL -ADMIRAL",
+        "TotDoD": 37,
+        "Year": 2023
+    },
+    {
+        "Grade": "LT GENERAL -VICE ADMIRAL",
+        "TotDoD": 132,
+        "Year": 2023
+    },
+    {
+        "Grade": "MAJ GENERAL -REAR, ADMIRAL(U)",
+        "TotDoD": 252,
+        "Year": 2023
+    },
+    {
+        "Grade": "BRIG GENERAL -REAR ADMIRAL(L)",
+        "TotDoD": 388,
+        "Year": 2023
+    },
+    {
+        "Grade": "COLONEL -CAPTAIN",
+        "TotDoD": "10,894",
+        "Year": 2023
+    },
+    {
+        "Grade": "LIEUTENANT COL-COMMANDER",
+        "TotDoD": "27,008",
+        "Year": 2023
+    },
+    {
+        "Grade": "MAJOR -LT COMMANDER",
+        "TotDoD": "45,076",
+        "Year": 2023
+    },
+    {
+        "Grade": "CAPTAIN -LIEUTENANT",
+        "TotDoD": "73,564",
+        "Year": 2023
+    },
+    {
+        "Grade": "Ist LIEUTENANT-LIEUTENANT(JG)",
+        "TotDoD": "31,007",
+        "Year": 2023
+    },
+    {
+        "Grade": "2nd LIEUTENANT-ENSIGN",
+        "TotDoD": "26,232",
+        "Year": 2023
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-5",
+        "TotDoD": 743,
+        "Year": 2023
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-4",
+        "TotDoD": "2,516",
+        "Year": 2023
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-3",
+        "TotDoD": "4,570",
+        "Year": 2023
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-2",
+        "TotDoD": "7,482",
+        "Year": 2023
+    },
+    {
+        "Grade": "WARRANT OFFICER W-1",
+        "TotDoD": "4,351",
+        "Year": 2023
+    },
+    {
+        "Grade": "OFFICER UNKNOWN GRADE",
+        "TotDoD": 0,
+        "Year": 2023
+    },
+    {
+        "Grade": "TOTAL OFFICER",
+        "TotDoD": "234,252",
+        "Year": 2023
+    },
+    {
+        "Grade": "E-9",
+        "TotDoD": "10,552",
+        "Year": 2023
+    },
+    {
+        "Grade": "E-8",
+        "TotDoD": "26,165",
+        "Year": 2023
+    },
+    {
+        "Grade": "E-7",
+        "TotDoD": "91,877",
+        "Year": 2023
+    },
+    {
+        "Grade": "E-6",
+        "TotDoD": "162,811",
+        "Year": 2023
+    },
+    {
+        "Grade": "E-5",
+        "TotDoD": "219,803",
+        "Year": 2023
+    },
+    {
+        "Grade": "E-4",
+        "TotDoD": "254,344",
+        "Year": 2023
+    },
+    {
+        "Grade": "E-3",
+        "TotDoD": "169,136",
+        "Year": 2023
+    },
+    {
+        "Grade": "E-2",
+        "TotDoD": "57,451",
+        "Year": 2023
+    },
+    {
+        "Grade": "E-1",
+        "TotDoD": "46,688",
+        "Year": 2023
+    },
+    {
+        "Grade": "ENLISTED UNKNOWN GRADE",
+        "TotDoD": 0,
+        "Year": 2023
+    },
+    {
+        "Grade": "TOTAL ENLISTED",
+        "TotDoD": "1,038,827",
+        "Year": 2023
+    },
+    {
+        "Grade": "CADETS-MIDSHIPMEN",
+        "TotDoD": "12,948",
+        "Year": 2023
+    },
+    {
+        "Grade": "GRAND TOTAL",
+        "TotDoD": "1,286,027",
+        "Year": 2023
+    },
+    {
+        "Grade": "GENERAL -ADMIRAL",
+        "TotDoD": 41,
+        "Year": 2022
+    },
+    {
+        "Grade": "LT GENERAL -VICE ADMIRAL",
+        "TotDoD": 152,
+        "Year": 2022
+    },
+    {
+        "Grade": "MAJ GENERAL -REAR ADMIRAL(U)",
+        "TotDoD": 286,
+        "Year": 2022
+    },
+    {
+        "Grade": "BRIG GENERAL -REAR ADMIRAL(L)",
+        "TotDoD": 384,
+        "Year": 2022
+    },
+    {
+        "Grade": "COLONEL -CAPTAIN",
+        "TotDoD": "11,110",
+        "Year": 2022
+    },
+    {
+        "Grade": "LIEUTENANT COL-COMMANDER",
+        "TotDoD": "27,529",
+        "Year": 2022
+    },
+    {
+        "Grade": "MAJOR -LT COMMANDER",
+        "TotDoD": "45,664",
+        "Year": 2022
+    },
+    {
+        "Grade": "CAPTAIN -LIEUTENANT",
+        "TotDoD": "73,780",
+        "Year": 2022
+    },
+    {
+        "Grade": "Ist LIEUTENANT-LIEUTENANT(JG)",
+        "TotDoD": "31,399",
+        "Year": 2022
+    },
+    {
+        "Grade": "2nd LIEUTENANT-ENSIGN",
+        "TotDoD": "27,028",
+        "Year": 2022
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-5",
+        "TotDoD": 766,
+        "Year": 2022
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-4",
+        "TotDoD": "2,628",
+        "Year": 2022
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-3",
+        "TotDoD": "4,738",
+        "Year": 2022
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-2",
+        "TotDoD": "7,570",
+        "Year": 2022
+    },
+    {
+        "Grade": "WARRANT OFFICER W-1",
+        "TotDoD": "3,567",
+        "Year": 2022
+    },
+    {
+        "Grade": "OFFICER UNKNOWN GRADE",
+        "TotDoD": 0,
+        "Year": 2022
+    },
+    {
+        "Grade": "TOTAL OFFICER",
+        "TotDoD": "236,642",
+        "Year": 2022
+    },
+    {
+        "Grade": "E-9",
+        "TotDoD": "10,477",
+        "Year": 2022
+    },
+    {
+        "Grade": "E-8",
+        "TotDoD": "26,677",
+        "Year": 2022
+    },
+    {
+        "Grade": "E-7",
+        "TotDoD": "93,868",
+        "Year": 2022
+    },
+    {
+        "Grade": "E-6",
+        "TotDoD": "167,132",
+        "Year": 2022
+    },
+    {
+        "Grade": "E-5",
+        "TotDoD": "223,038",
+        "Year": 2022
+    },
+    {
+        "Grade": "E-4",
+        "TotDoD": "261,814",
+        "Year": 2022
+    },
+    {
+        "Grade": "E-3",
+        "TotDoD": "186,958",
+        "Year": 2022
+    },
+    {
+        "Grade": "E-2",
+        "TotDoD": "54,891",
+        "Year": 2022
+    },
+    {
+        "Grade": "E-1",
+        "TotDoD": "42,812",
+        "Year": 2022
+    },
+    {
+        "Grade": "ENLISTED UNKNOWN GRADE",
+        "TotDoD": 0,
+        "Year": 2022
+    },
+    {
+        "Grade": "TOTAL ENLISTED",
+        "TotDoD": "1,067,667",
+        "Year": 2022
+    },
+    {
+        "Grade": "CADETS-MIDSHIPMEN",
+        "TotDoD": "12,758",
+        "Year": 2022
+    },
+    {
+        "Grade": "GRAND TOTAL",
+        "TotDoD": "1,317,067",
+        "Year": 2022
+    },
+    {
+        "Grade": "GENERAL -ADMIRAL",
+        "TotDoD": 41,
+        "Year": 2021
+    },
+    {
+        "Grade": "LT GENERAL -VICE ADMIRAL",
+        "TotDoD": 157,
+        "Year": 2021
+    },
+    {
+        "Grade": "MAJ GENERAL -REAR ADMIRAL(U)",
+        "TotDoD": 294,
+        "Year": 2021
+    },
+    {
+        "Grade": "BRIG GENERAL -REAR ADMIRAL(L)",
+        "TotDoD": 409,
+        "Year": 2021
+    },
+    {
+        "Grade": "COLONEL -CAPTAIN",
+        "TotDoD": "11,197",
+        "Year": 2021
+    },
+    {
+        "Grade": "LIEUTENANT COL-COMMANDER",
+        "TotDoD": "27,800",
+        "Year": 2021
+    },
+    {
+        "Grade": "MAJOR -LT COMMANDER",
+        "TotDoD": "45,402",
+        "Year": 2021
+    },
+    {
+        "Grade": "CAPTAIN -LIEUTENANT",
+        "TotDoD": "73,507",
+        "Year": 2021
+    },
+    {
+        "Grade": "Ist LIEUTENANT-LIEUTENANT(JG)",
+        "TotDoD": "32,136",
+        "Year": 2021
+    },
+    {
+        "Grade": "2nd LIEUTENANT-ENSIGN",
+        "TotDoD": "26,222",
+        "Year": 2021
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-5",
+        "TotDoD": 736,
+        "Year": 2021
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-4",
+        "TotDoD": "2,748",
+        "Year": 2021
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-3",
+        "TotDoD": "4,802",
+        "Year": 2021
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-2",
+        "TotDoD": "7,463",
+        "Year": 2021
+    },
+    {
+        "Grade": "WARRANT OFFICER W-1",
+        "TotDoD": "3,122",
+        "Year": 2021
+    },
+    {
+        "Grade": "OFFICER UNKNOWN GRADE",
+        "TotDoD": 25,
+        "Year": 2021
+    },
+    {
+        "Grade": "TOTAL OFFICER",
+        "TotDoD": "236,061",
+        "Year": 2021
+    },
+    {
+        "Grade": "E-9",
+        "TotDoD": "10,438",
+        "Year": 2021
+    },
+    {
+        "Grade": "E-8",
+        "TotDoD": "26,916",
+        "Year": 2021
+    },
+    {
+        "Grade": "E-7",
+        "TotDoD": "92,584",
+        "Year": 2021
+    },
+    {
+        "Grade": "E-6",
+        "TotDoD": "168,739",
+        "Year": 2021
+    },
+    {
+        "Grade": "E-5",
+        "TotDoD": "227,526",
+        "Year": 2021
+    },
+    {
+        "Grade": "E-4",
+        "TotDoD": "267,687",
+        "Year": 2021
+    },
+    {
+        "Grade": "E-3",
+        "TotDoD": "196,229",
+        "Year": 2021
+    },
+    {
+        "Grade": "E-2",
+        "TotDoD": "66,472",
+        "Year": 2021
+    },
+    {
+        "Grade": "E-1",
+        "TotDoD": "42,787",
+        "Year": 2021
+    },
+    {
+        "Grade": "ENLISTED UNKNOWN GRADE",
+        "TotDoD": 0,
+        "Year": 2021
+    },
+    {
+        "Grade": "TOTAL ENLISTED",
+        "TotDoD": "1,099,378",
+        "Year": 2021
+    },
+    {
+        "Grade": "CADETS-MIDSHIPMEN",
+        "TotDoD": "13,040",
+        "Year": 2021
+    },
+    {
+        "Grade": "GRAND TOTAL",
+        "TotDoD": "1,348,479",
+        "Year": 2021
+    },
+    {
+        "Grade": "GENERAL       -ADMIRAL",
+        "TotDoD": 45,
+        "Year": 2020
+    },
+    {
+        "Grade": "LT GENERAL    -VICE ADMIRAL",
+        "TotDoD": 153,
+        "Year": 2020
+    },
+    {
+        "Grade": "MAJ GENERAL   -REAR ADMIRAL(U)",
+        "TotDoD": 281,
+        "Year": 2020
+    },
+    {
+        "Grade": "BRIG GENERAL  -REAR ADMIRAL(L)",
+        "TotDoD": 417,
+        "Year": 2020
+    },
+    {
+        "Grade": "COLONEL       -CAPTAIN",
+        "TotDoD": "11,246",
+        "Year": 2020
+    },
+    {
+        "Grade": "LIEUTENANT COL-COMMANDER",
+        "TotDoD": "27,569",
+        "Year": 2020
+    },
+    {
+        "Grade": "MAJOR         -LT COMMANDER",
+        "TotDoD": "45,066",
+        "Year": 2020
+    },
+    {
+        "Grade": "CAPTAIN       -LIEUTENANT",
+        "TotDoD": "72,602",
+        "Year": 2020
+    },
+    {
+        "Grade": "Ist LIEUTENANT-LIEUTENANT(JG)",
+        "TotDoD": "31,411",
+        "Year": 2020
+    },
+    {
+        "Grade": "2nd LIEUTENANT-ENSIGN",
+        "TotDoD": "27,145",
+        "Year": 2020
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-5",
+        "TotDoD": 749,
+        "Year": 2020
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-4",
+        "TotDoD": "2,657",
+        "Year": 2020
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-3",
+        "TotDoD": "4,975",
+        "Year": 2020
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-2",
+        "TotDoD": "7,078",
+        "Year": 2020
+    },
+    {
+        "Grade": "WARRANT OFFICER W-1",
+        "TotDoD": "2,942",
+        "Year": 2020
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2020
+    },
+    {
+        "Grade": "TOTAL OFFICER",
+        "TotDoD": "234,336",
+        "Year": 2020
+    },
+    {
+        "Grade": "E-9",
+        "TotDoD": "10,414",
+        "Year": 2020
+    },
+    {
+        "Grade": "E-8",
+        "TotDoD": "27,271",
+        "Year": 2020
+    },
+    {
+        "Grade": "E-7",
+        "TotDoD": "93,945",
+        "Year": 2020
+    },
+    {
+        "Grade": "E-6",
+        "TotDoD": "167,362",
+        "Year": 2020
+    },
+    {
+        "Grade": "E-5",
+        "TotDoD": "225,035",
+        "Year": 2020
+    },
+    {
+        "Grade": "E-4",
+        "TotDoD": "265,002",
+        "Year": 2020
+    },
+    {
+        "Grade": "E-3",
+        "TotDoD": "192,764",
+        "Year": 2020
+    },
+    {
+        "Grade": "E-2",
+        "TotDoD": "66,465",
+        "Year": 2020
+    },
+    {
+        "Grade": "E-1",
+        "TotDoD": "50,867",
+        "Year": 2020
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2020
+    },
+    {
+        "Grade": "TOTAL ENLISTED",
+        "TotDoD": "1,099,125",
+        "Year": 2020
+    },
+    {
+        "Grade": "CADETS-MIDSHIPMEN",
+        "TotDoD": "13,190",
+        "Year": 2020
+    },
+    {
+        "Grade": "GRAND TOTAL",
+        "TotDoD": "1,346,651",
+        "Year": 2020
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2020
+    },
+    {
+        "Grade": "GENERAL       -ADMIRAL",
+        "TotDoD": 37,
+        "Year": 2019
+    },
+    {
+        "Grade": "LT GENERAL    -VICE ADMIRAL",
+        "TotDoD": 142,
+        "Year": 2019
+    },
+    {
+        "Grade": "MAJ GENERAL   -REAR ADMIRAL(U)",
+        "TotDoD": 295,
+        "Year": 2019
+    },
+    {
+        "Grade": "BRIG GENERAL  -REAR ADMIRAL(L)",
+        "TotDoD": 409,
+        "Year": 2019
+    },
+    {
+        "Grade": "COLONEL       -CAPTAIN",
+        "TotDoD": "11,080",
+        "Year": 2019
+    },
+    {
+        "Grade": "LIEUTENANT COL-COMMANDER",
+        "TotDoD": "27,152",
+        "Year": 2019
+    },
+    {
+        "Grade": "MAJOR         -LT COMMANDER",
+        "TotDoD": "43,908",
+        "Year": 2019
+    },
+    {
+        "Grade": "CAPTAIN       -LIEUTENANT",
+        "TotDoD": "73,820",
+        "Year": 2019
+    },
+    {
+        "Grade": "Ist LIEUTENANT-LIEUTENANT(JG)",
+        "TotDoD": "29,228",
+        "Year": 2019
+    },
+    {
+        "Grade": "2nd LIEUTENANT-ENSIGN",
+        "TotDoD": "28,590",
+        "Year": 2019
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-5",
+        "TotDoD": 774,
+        "Year": 2019
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-4",
+        "TotDoD": "2,647",
+        "Year": 2019
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-3",
+        "TotDoD": "5,153",
+        "Year": 2019
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-2",
+        "TotDoD": "6,768",
+        "Year": 2019
+    },
+    {
+        "Grade": "WARRANT OFFICER W-1",
+        "TotDoD": "2,886",
+        "Year": 2019
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2019
+    },
+    {
+        "Grade": "TOTAL OFFICER",
+        "TotDoD": "232,889",
+        "Year": 2019
+    },
+    {
+        "Grade": "E-9",
+        "TotDoD": "10,472",
+        "Year": 2019
+    },
+    {
+        "Grade": "E-8",
+        "TotDoD": "27,477",
+        "Year": 2019
+    },
+    {
+        "Grade": "E-7",
+        "TotDoD": "92,617",
+        "Year": 2019
+    },
+    {
+        "Grade": "E-6",
+        "TotDoD": "160,725",
+        "Year": 2019
+    },
+    {
+        "Grade": "E-5",
+        "TotDoD": "226,193",
+        "Year": 2019
+    },
+    {
+        "Grade": "E-4",
+        "TotDoD": "253,718",
+        "Year": 2019
+    },
+    {
+        "Grade": "E-3",
+        "TotDoD": "189,579",
+        "Year": 2019
+    },
+    {
+        "Grade": "E-2",
+        "TotDoD": "71,703",
+        "Year": 2019
+    },
+    {
+        "Grade": "E-1",
+        "TotDoD": "60,453",
+        "Year": 2019
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2019
+    },
+    {
+        "Grade": "TOTAL ENLISTED",
+        "TotDoD": "1,092,937",
+        "Year": 2019
+    },
+    {
+        "Grade": "CADETS-MIDSHIPMEN",
+        "TotDoD": "13,210",
+        "Year": 2019
+    },
+    {
+        "Grade": "GRAND TOTAL",
+        "TotDoD": "1,339,036",
+        "Year": 2019
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2019
+    },
+    {
+        "Grade": "GENERAL       -ADMIRAL",
+        "TotDoD": 40,
+        "Year": 2018
+    },
+    {
+        "Grade": "LT GENERAL    -VICE ADMIRAL",
+        "TotDoD": 147,
+        "Year": 2018
+    },
+    {
+        "Grade": "MAJ GENERAL   -REAR ADMIRAL(U)",
+        "TotDoD": 296,
+        "Year": 2018
+    },
+    {
+        "Grade": "BRIG GENERAL  -REAR ADMIRAL(L)",
+        "TotDoD": 438,
+        "Year": 2018
+    },
+    {
+        "Grade": "COLONEL       -CAPTAIN",
+        "TotDoD": "10,999",
+        "Year": 2018
+    },
+    {
+        "Grade": "LIEUTENANT COL-COMMANDER",
+        "TotDoD": "27,126",
+        "Year": 2018
+    },
+    {
+        "Grade": "MAJOR         -LT COMMANDER",
+        "TotDoD": "43,145",
+        "Year": 2018
+    },
+    {
+        "Grade": "CAPTAIN       -LIEUTENANT",
+        "TotDoD": "74,120",
+        "Year": 2018
+    },
+    {
+        "Grade": "Ist LIEUTENANT-LIEUTENANT(JG)",
+        "TotDoD": "28,250",
+        "Year": 2018
+    },
+    {
+        "Grade": "2nd LIEUTENANT-ENSIGN",
+        "TotDoD": "28,002",
+        "Year": 2018
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-5",
+        "TotDoD": 783,
+        "Year": 2018
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-4",
+        "TotDoD": "2,761",
+        "Year": 2018
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-3",
+        "TotDoD": "5,225",
+        "Year": 2018
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-2",
+        "TotDoD": "6,737",
+        "Year": 2018
+    },
+    {
+        "Grade": "WARRANT OFFICER W-1",
+        "TotDoD": "2,639",
+        "Year": 2018
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2018
+    },
+    {
+        "Grade": "TOTAL OFFICER",
+        "TotDoD": "230,708",
+        "Year": 2018
+    },
+    {
+        "Grade": "E-9",
+        "TotDoD": "10,369",
+        "Year": 2018
+    },
+    {
+        "Grade": "E-8",
+        "TotDoD": "26,195",
+        "Year": 2018
+    },
+    {
+        "Grade": "E-7",
+        "TotDoD": "91,086",
+        "Year": 2018
+    },
+    {
+        "Grade": "E-6",
+        "TotDoD": "157,265",
+        "Year": 2018
+    },
+    {
+        "Grade": "E-5",
+        "TotDoD": "221,114",
+        "Year": 2018
+    },
+    {
+        "Grade": "E-4",
+        "TotDoD": "245,602",
+        "Year": 2018
+    },
+    {
+        "Grade": "E-3",
+        "TotDoD": "191,054",
+        "Year": 2018
+    },
+    {
+        "Grade": "E-2",
+        "TotDoD": "70,960",
+        "Year": 2018
+    },
+    {
+        "Grade": "E-1",
+        "TotDoD": "59,679",
+        "Year": 2018
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2018
+    },
+    {
+        "Grade": "TOTAL ENLISTED",
+        "TotDoD": "1,073,324",
+        "Year": 2018
+    },
+    {
+        "Grade": "CADETS-MIDSHIPMEN",
+        "TotDoD": "13,293",
+        "Year": 2018
+    },
+    {
+        "Grade": "GRAND TOTAL",
+        "TotDoD": "1,317,325",
+        "Year": 2018
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2018
+    },
+    {
+        "Grade": "GENERAL       -ADMIRAL",
+        "TotDoD": 37,
+        "Year": 2017
+    },
+    {
+        "Grade": "LT GENERAL    -VICE ADMIRAL",
+        "TotDoD": 147,
+        "Year": 2017
+    },
+    {
+        "Grade": "MAJ GENERAL   -REAR ADMIRAL(U)",
+        "TotDoD": 301,
+        "Year": 2017
+    },
+    {
+        "Grade": "BRIG GENERAL  -REAR ADMIRAL(L)",
+        "TotDoD": 418,
+        "Year": 2017
+    },
+    {
+        "Grade": "COLONEL       -CAPTAIN",
+        "TotDoD": "11,222",
+        "Year": 2017
+    },
+    {
+        "Grade": "LIEUTENANT COL-COMMANDER",
+        "TotDoD": "27,028",
+        "Year": 2017
+    },
+    {
+        "Grade": "MAJOR         -LT COMMANDER",
+        "TotDoD": "42,630",
+        "Year": 2017
+    },
+    {
+        "Grade": "CAPTAIN       -LIEUTENANT",
+        "TotDoD": "74,838",
+        "Year": 2017
+    },
+    {
+        "Grade": "Ist LIEUTENANT-LIEUTENANT(JG)",
+        "TotDoD": "27,642",
+        "Year": 2017
+    },
+    {
+        "Grade": "2nd LIEUTENANT-ENSIGN",
+        "TotDoD": "26,607",
+        "Year": 2017
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-5",
+        "TotDoD": 739,
+        "Year": 2017
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-4",
+        "TotDoD": "2,756",
+        "Year": 2017
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-3",
+        "TotDoD": "5,327",
+        "Year": 2017
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-2",
+        "TotDoD": "6,875",
+        "Year": 2017
+    },
+    {
+        "Grade": "WARRANT OFFICER W-1",
+        "TotDoD": "2,405",
+        "Year": 2017
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2017
+    },
+    {
+        "Grade": "TOTAL OFFICER",
+        "TotDoD": "228,972",
+        "Year": 2017
+    },
+    {
+        "Grade": "E-9",
+        "TotDoD": "10,071",
+        "Year": 2017
+    },
+    {
+        "Grade": "E-8",
+        "TotDoD": "26,137",
+        "Year": 2017
+    },
+    {
+        "Grade": "E-7",
+        "TotDoD": "88,408",
+        "Year": 2017
+    },
+    {
+        "Grade": "E-6",
+        "TotDoD": "154,681",
+        "Year": 2017
+    },
+    {
+        "Grade": "E-5",
+        "TotDoD": "218,278",
+        "Year": 2017
+    },
+    {
+        "Grade": "E-4",
+        "TotDoD": "251,734",
+        "Year": 2017
+    },
+    {
+        "Grade": "E-3",
+        "TotDoD": "186,496",
+        "Year": 2017
+    },
+    {
+        "Grade": "E-2",
+        "TotDoD": "71,613",
+        "Year": 2017
+    },
+    {
+        "Grade": "E-1",
+        "TotDoD": "57,747",
+        "Year": 2017
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2017
+    },
+    {
+        "Grade": "TOTAL ENLISTED",
+        "TotDoD": "1,065,165",
+        "Year": 2017
+    },
+    {
+        "Grade": "CADETS-MIDSHIPMEN",
+        "TotDoD": "13,229",
+        "Year": 2017
+    },
+    {
+        "Grade": "GRAND TOTAL",
+        "TotDoD": "1,307,366",
+        "Year": 2017
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2017
+    },
+    {
+        "Grade": "End strength numbers do not include any Reserve Component member who has served over 1,095 days for operational support.",
+        "TotDoD": null,
+        "Year": 2017
+    },
+    {
+        "Grade": "GENERAL       -ADMIRAL",
+        "TotDoD": 39,
+        "Year": 2016
+    },
+    {
+        "Grade": "LT GENERAL    -VICE ADMIRAL",
+        "TotDoD": 137,
+        "Year": 2016
+    },
+    {
+        "Grade": "MAJ GENERAL   -REAR ADMIRAL(U)",
+        "TotDoD": 307,
+        "Year": 2016
+    },
+    {
+        "Grade": "BRIG GENERAL  -REAR ADMIRAL(L)",
+        "TotDoD": 420,
+        "Year": 2016
+    },
+    {
+        "Grade": "COLONEL       -CAPTAIN",
+        "TotDoD": "11,253",
+        "Year": 2016
+    },
+    {
+        "Grade": "LIEUTENANT COL-COMMANDER",
+        "TotDoD": "27,079",
+        "Year": 2016
+    },
+    {
+        "Grade": "MAJOR         -LT COMMANDER",
+        "TotDoD": "42,958",
+        "Year": 2016
+    },
+    {
+        "Grade": "CAPTAIN       -LIEUTENANT",
+        "TotDoD": "74,633",
+        "Year": 2016
+    },
+    {
+        "Grade": "Ist LIEUTENANT-LIEUTENANT(JG)",
+        "TotDoD": "28,303",
+        "Year": 2016
+    },
+    {
+        "Grade": "2nd LIEUTENANT-ENSIGN",
+        "TotDoD": "24,745",
+        "Year": 2016
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-5",
+        "TotDoD": 769,
+        "Year": 2016
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-4",
+        "TotDoD": "2,631",
+        "Year": 2016
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-3",
+        "TotDoD": "5,348",
+        "Year": 2016
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-2",
+        "TotDoD": "7,393",
+        "Year": 2016
+    },
+    {
+        "Grade": "WARRANT OFFICER W-1",
+        "TotDoD": "2,133",
+        "Year": 2016
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2016
+    },
+    {
+        "Grade": "TOTAL OFFICER",
+        "TotDoD": "228,148",
+        "Year": 2016
+    },
+    {
+        "Grade": "E-9",
+        "TotDoD": "9,979",
+        "Year": 2016
+    },
+    {
+        "Grade": "E-8",
+        "TotDoD": "25,965",
+        "Year": 2016
+    },
+    {
+        "Grade": "E-7",
+        "TotDoD": "89,428",
+        "Year": 2016
+    },
+    {
+        "Grade": "E-6",
+        "TotDoD": "154,408",
+        "Year": 2016
+    },
+    {
+        "Grade": "E-5",
+        "TotDoD": "214,296",
+        "Year": 2016
+    },
+    {
+        "Grade": "E-4",
+        "TotDoD": "262,254",
+        "Year": 2016
+    },
+    {
+        "Grade": "E-3",
+        "TotDoD": "183,762",
+        "Year": 2016
+    },
+    {
+        "Grade": "E-2",
+        "TotDoD": "67,996",
+        "Year": 2016
+    },
+    {
+        "Grade": "E-1",
+        "TotDoD": "51,996",
+        "Year": 2016
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2016
+    },
+    {
+        "Grade": "TOTAL ENLISTED",
+        "TotDoD": "1,060,084",
+        "Year": 2016
+    },
+    {
+        "Grade": "CADETS-MIDSHIPMEN",
+        "TotDoD": "13,076",
+        "Year": 2016
+    },
+    {
+        "Grade": "GRAND TOTAL",
+        "TotDoD": "1,301,308",
+        "Year": 2016
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2016
+    },
+    {
+        "Grade": "GENERAL       -ADMIRAL",
+        "TotDoD": 38,
+        "Year": 2015
+    },
+    {
+        "Grade": "LT GENERAL    -VICE ADMIRAL",
+        "TotDoD": 141,
+        "Year": 2015
+    },
+    {
+        "Grade": "MAJ GENERAL   -REAR ADMIRAL(U)",
+        "TotDoD": 310,
+        "Year": 2015
+    },
+    {
+        "Grade": "BRIG GENERAL  -REAR ADMIRAL(L)",
+        "TotDoD": 420,
+        "Year": 2015
+    },
+    {
+        "Grade": "COLONEL       -CAPTAIN",
+        "TotDoD": "11,240",
+        "Year": 2015
+    },
+    {
+        "Grade": "LIEUTENANT COL-COMMANDER",
+        "TotDoD": "27,221",
+        "Year": 2015
+    },
+    {
+        "Grade": "MAJOR         -LT COMMANDER",
+        "TotDoD": "43,609",
+        "Year": 2015
+    },
+    {
+        "Grade": "CAPTAIN       -LIEUTENANT",
+        "TotDoD": "75,525",
+        "Year": 2015
+    },
+    {
+        "Grade": "Ist LIEUTENANT-LIEUTENANT(JG)",
+        "TotDoD": "29,484",
+        "Year": 2015
+    },
+    {
+        "Grade": "2nd LIEUTENANT-ENSIGN",
+        "TotDoD": "23,724",
+        "Year": 2015
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-5",
+        "TotDoD": 797,
+        "Year": 2015
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-4",
+        "TotDoD": "2,782",
+        "Year": 2015
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-3",
+        "TotDoD": "5,424",
+        "Year": 2015
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-2",
+        "TotDoD": "7,694",
+        "Year": 2015
+    },
+    {
+        "Grade": "WARRANT OFFICER W-1",
+        "TotDoD": "2,059",
+        "Year": 2015
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2015
+    },
+    {
+        "Grade": "TOTAL OFFICER",
+        "TotDoD": "230,468",
+        "Year": 2015
+    },
+    {
+        "Grade": "E-9",
+        "TotDoD": "9,991",
+        "Year": 2015
+    },
+    {
+        "Grade": "E-8",
+        "TotDoD": "26,443",
+        "Year": 2015
+    },
+    {
+        "Grade": "E-7",
+        "TotDoD": "89,580",
+        "Year": 2015
+    },
+    {
+        "Grade": "E-6",
+        "TotDoD": "156,786",
+        "Year": 2015
+    },
+    {
+        "Grade": "E-5",
+        "TotDoD": "219,613",
+        "Year": 2015
+    },
+    {
+        "Grade": "E-4",
+        "TotDoD": "277,371",
+        "Year": 2015
+    },
+    {
+        "Grade": "E-3",
+        "TotDoD": "174,695",
+        "Year": 2015
+    },
+    {
+        "Grade": "E-2",
+        "TotDoD": "66,744",
+        "Year": 2015
+    },
+    {
+        "Grade": "E-1",
+        "TotDoD": "49,323",
+        "Year": 2015
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2015
+    },
+    {
+        "Grade": "TOTAL ENLISTED",
+        "TotDoD": "1,070,546",
+        "Year": 2015
+    },
+    {
+        "Grade": "CADETS-MIDSHIPMEN",
+        "TotDoD": "12,926",
+        "Year": 2015
+    },
+    {
+        "Grade": "GRAND TOTAL",
+        "TotDoD": "1,313,940",
+        "Year": 2015
+    },
+    {
+        "Grade": "GENERAL       -ADMIRAL",
+        "TotDoD": 38,
+        "Year": 2014
+    },
+    {
+        "Grade": "LT GENERAL    -VICE ADMIRAL",
+        "TotDoD": 145,
+        "Year": 2014
+    },
+    {
+        "Grade": "MAJ GENERAL   -REAR ADMIRAL(U)",
+        "TotDoD": 304,
+        "Year": 2014
+    },
+    {
+        "Grade": "BRIG GENERAL  -REAR ADMIRAL(L)",
+        "TotDoD": 424,
+        "Year": 2014
+    },
+    {
+        "Grade": "COLONEL       -CAPTAIN",
+        "TotDoD": "11,591",
+        "Year": 2014
+    },
+    {
+        "Grade": "LIEUTENANT COL-COMMANDER",
+        "TotDoD": "27,932",
+        "Year": 2014
+    },
+    {
+        "Grade": "MAJOR         -LT COMMANDER",
+        "TotDoD": "45,624",
+        "Year": 2014
+    },
+    {
+        "Grade": "CAPTAIN       -LIEUTENANT",
+        "TotDoD": "76,207",
+        "Year": 2014
+    },
+    {
+        "Grade": "Ist LIEUTENANT-LIEUTENANT(JG)",
+        "TotDoD": "29,863",
+        "Year": 2014
+    },
+    {
+        "Grade": "2nd LIEUTENANT-ENSIGN",
+        "TotDoD": "23,639",
+        "Year": 2014
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-5",
+        "TotDoD": 836,
+        "Year": 2014
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-4",
+        "TotDoD": "2,937",
+        "Year": 2014
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-3",
+        "TotDoD": "5,269",
+        "Year": 2014
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-2",
+        "TotDoD": "7,952",
+        "Year": 2014
+    },
+    {
+        "Grade": "WARRANT OFFICER W-1",
+        "TotDoD": "2,239",
+        "Year": 2014
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2014
+    },
+    {
+        "Grade": "TOTAL OFFICER",
+        "TotDoD": "235,000",
+        "Year": 2014
+    },
+    {
+        "Grade": "E-9",
+        "TotDoD": "10,238",
+        "Year": 2014
+    },
+    {
+        "Grade": "E-8",
+        "TotDoD": "27,296",
+        "Year": 2014
+    },
+    {
+        "Grade": "E-7",
+        "TotDoD": "94,076",
+        "Year": 2014
+    },
+    {
+        "Grade": "E-6",
+        "TotDoD": "159,711",
+        "Year": 2014
+    },
+    {
+        "Grade": "E-5",
+        "TotDoD": "227,369",
+        "Year": 2014
+    },
+    {
+        "Grade": "E-4",
+        "TotDoD": "268,701",
+        "Year": 2014
+    },
+    {
+        "Grade": "E-3",
+        "TotDoD": "190,482",
+        "Year": 2014
+    },
+    {
+        "Grade": "E-2",
+        "TotDoD": "65,878",
+        "Year": 2014
+    },
+    {
+        "Grade": "E-1",
+        "TotDoD": "47,008",
+        "Year": 2014
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2014
+    },
+    {
+        "Grade": "TOTAL ENLISTED",
+        "TotDoD": "1,090,759",
+        "Year": 2014
+    },
+    {
+        "Grade": "CADETS-MIDSHIPMEN",
+        "TotDoD": "12,728",
+        "Year": 2014
+    },
+    {
+        "Grade": "GRAND TOTAL",
+        "TotDoD": "1,338,487",
+        "Year": 2014
+    },
+    {
+        "Grade": "GENERAL       -ADMIRAL",
+        "TotDoD": 37,
+        "Year": 2013
+    },
+    {
+        "Grade": "LT GENERAL    -VICE ADMIRAL",
+        "TotDoD": 158,
+        "Year": 2013
+    },
+    {
+        "Grade": "MAJ GENERAL   -REAR ADMIRAL(U)",
+        "TotDoD": 312,
+        "Year": 2013
+    },
+    {
+        "Grade": "BRIG GENERAL  -REAR ADMIRAL(L)",
+        "TotDoD": 436,
+        "Year": 2013
+    },
+    {
+        "Grade": "COLONEL       -CAPTAIN",
+        "TotDoD": "11,955",
+        "Year": 2013
+    },
+    {
+        "Grade": "LIEUTENANT COL-COMMANDER",
+        "TotDoD": "28,888",
+        "Year": 2013
+    },
+    {
+        "Grade": "MAJOR         -LT COMMANDER",
+        "TotDoD": "46,155",
+        "Year": 2013
+    },
+    {
+        "Grade": "CAPTAIN       -LIEUTENANT",
+        "TotDoD": "75,632",
+        "Year": 2013
+    },
+    {
+        "Grade": "Ist LIEUTENANT-LIEUTENANT(JG)",
+        "TotDoD": "31,133",
+        "Year": 2013
+    },
+    {
+        "Grade": "2nd LIEUTENANT-ENSIGN",
+        "TotDoD": "24,454",
+        "Year": 2013
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-5",
+        "TotDoD": 830,
+        "Year": 2013
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-4",
+        "TotDoD": "3,047",
+        "Year": 2013
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-3",
+        "TotDoD": "5,128",
+        "Year": 2013
+    },
+    {
+        "Grade": "CHIEF WARRANT OFFICER W-2",
+        "TotDoD": "8,143",
+        "Year": 2013
+    },
+    {
+        "Grade": "WARRANT OFFICER W-1",
+        "TotDoD": "2,223",
+        "Year": 2013
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2013
+    },
+    {
+        "Grade": "TOTAL OFFICER",
+        "TotDoD": "238,531",
+        "Year": 2013
+    },
+    {
+        "Grade": "E-9",
+        "TotDoD": "10,495",
+        "Year": 2013
+    },
+    {
+        "Grade": "E-8",
+        "TotDoD": "27,459",
+        "Year": 2013
+    },
+    {
+        "Grade": "E-7",
+        "TotDoD": "96,397",
+        "Year": 2013
+    },
+    {
+        "Grade": "E-6",
+        "TotDoD": "163,907",
+        "Year": 2013
+    },
+    {
+        "Grade": "E-5",
+        "TotDoD": "234,745",
+        "Year": 2013
+    },
+    {
+        "Grade": "E-4",
+        "TotDoD": "277,403",
+        "Year": 2013
+    },
+    {
+        "Grade": "E-3",
+        "TotDoD": "196,218",
+        "Year": 2013
+    },
+    {
+        "Grade": "E-2",
+        "TotDoD": "70,043",
+        "Year": 2013
+    },
+    {
+        "Grade": "E-1",
+        "TotDoD": "54,618",
+        "Year": 2013
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2013
+    },
+    {
+        "Grade": "TOTAL ENLISTED",
+        "TotDoD": "1,131,285",
+        "Year": 2013
+    },
+    {
+        "Grade": "CADETS-MIDSHIPMEN",
+        "TotDoD": "12,868",
+        "Year": 2013
+    },
+    {
+        "Grade": "GRAND TOTAL",
+        "TotDoD": "1,382,684",
+        "Year": 2013
+    },
+    {
+        "Grade": null,
+        "TotDoD": null,
+        "Year": 2013
+    }
+]

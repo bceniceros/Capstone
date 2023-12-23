@@ -1,0 +1,662 @@
+[
+    {
+        "Month": "Jan",
+        "UnemploymentRate": 8.0,
+        "Year": 2013
+    },
+    {
+        "Month": "Jan",
+        "UnemploymentRate": 6.6,
+        "Year": 2014
+    },
+    {
+        "Month": "Jan",
+        "UnemploymentRate": 5.7,
+        "Year": 2015
+    },
+    {
+        "Month": "Jan",
+        "UnemploymentRate": 4.8,
+        "Year": 2016
+    },
+    {
+        "Month": "Jan",
+        "UnemploymentRate": 4.7,
+        "Year": 2017
+    },
+    {
+        "Month": "Jan",
+        "UnemploymentRate": 4.0,
+        "Year": 2018
+    },
+    {
+        "Month": "Jan",
+        "UnemploymentRate": 4.0,
+        "Year": 2019
+    },
+    {
+        "Month": "Jan",
+        "UnemploymentRate": 3.5,
+        "Year": 2020
+    },
+    {
+        "Month": "Jan",
+        "UnemploymentRate": 6.3,
+        "Year": 2021
+    },
+    {
+        "Month": "Jan",
+        "UnemploymentRate": 4.0,
+        "Year": 2022
+    },
+    {
+        "Month": "Jan",
+        "UnemploymentRate": 3.4,
+        "Year": 2023
+    },
+    {
+        "Month": "Feb",
+        "UnemploymentRate": 7.7,
+        "Year": 2013
+    },
+    {
+        "Month": "Feb",
+        "UnemploymentRate": 6.7,
+        "Year": 2014
+    },
+    {
+        "Month": "Feb",
+        "UnemploymentRate": 5.5,
+        "Year": 2015
+    },
+    {
+        "Month": "Feb",
+        "UnemploymentRate": 4.9,
+        "Year": 2016
+    },
+    {
+        "Month": "Feb",
+        "UnemploymentRate": 4.6,
+        "Year": 2017
+    },
+    {
+        "Month": "Feb",
+        "UnemploymentRate": 4.1,
+        "Year": 2018
+    },
+    {
+        "Month": "Feb",
+        "UnemploymentRate": 3.8,
+        "Year": 2019
+    },
+    {
+        "Month": "Feb",
+        "UnemploymentRate": 3.5,
+        "Year": 2020
+    },
+    {
+        "Month": "Feb",
+        "UnemploymentRate": 6.2,
+        "Year": 2021
+    },
+    {
+        "Month": "Feb",
+        "UnemploymentRate": 3.8,
+        "Year": 2022
+    },
+    {
+        "Month": "Feb",
+        "UnemploymentRate": 3.6,
+        "Year": 2023
+    },
+    {
+        "Month": "Mar",
+        "UnemploymentRate": 7.5,
+        "Year": 2013
+    },
+    {
+        "Month": "Mar",
+        "UnemploymentRate": 6.7,
+        "Year": 2014
+    },
+    {
+        "Month": "Mar",
+        "UnemploymentRate": 5.4,
+        "Year": 2015
+    },
+    {
+        "Month": "Mar",
+        "UnemploymentRate": 5.0,
+        "Year": 2016
+    },
+    {
+        "Month": "Mar",
+        "UnemploymentRate": 4.4,
+        "Year": 2017
+    },
+    {
+        "Month": "Mar",
+        "UnemploymentRate": 4.0,
+        "Year": 2018
+    },
+    {
+        "Month": "Mar",
+        "UnemploymentRate": 3.8,
+        "Year": 2019
+    },
+    {
+        "Month": "Mar",
+        "UnemploymentRate": 4.4,
+        "Year": 2020
+    },
+    {
+        "Month": "Mar",
+        "UnemploymentRate": 6.1,
+        "Year": 2021
+    },
+    {
+        "Month": "Mar",
+        "UnemploymentRate": 3.6,
+        "Year": 2022
+    },
+    {
+        "Month": "Mar",
+        "UnemploymentRate": 3.5,
+        "Year": 2023
+    },
+    {
+        "Month": "Apr",
+        "UnemploymentRate": 7.6,
+        "Year": 2013
+    },
+    {
+        "Month": "Apr",
+        "UnemploymentRate": 6.2,
+        "Year": 2014
+    },
+    {
+        "Month": "Apr",
+        "UnemploymentRate": 5.4,
+        "Year": 2015
+    },
+    {
+        "Month": "Apr",
+        "UnemploymentRate": 5.1,
+        "Year": 2016
+    },
+    {
+        "Month": "Apr",
+        "UnemploymentRate": 4.4,
+        "Year": 2017
+    },
+    {
+        "Month": "Apr",
+        "UnemploymentRate": 4.0,
+        "Year": 2018
+    },
+    {
+        "Month": "Apr",
+        "UnemploymentRate": 3.6,
+        "Year": 2019
+    },
+    {
+        "Month": "Apr",
+        "UnemploymentRate": 14.7,
+        "Year": 2020
+    },
+    {
+        "Month": "Apr",
+        "UnemploymentRate": 6.1,
+        "Year": 2021
+    },
+    {
+        "Month": "Apr",
+        "UnemploymentRate": 3.6,
+        "Year": 2022
+    },
+    {
+        "Month": "Apr",
+        "UnemploymentRate": 3.4,
+        "Year": 2023
+    },
+    {
+        "Month": "May",
+        "UnemploymentRate": 7.5,
+        "Year": 2013
+    },
+    {
+        "Month": "May",
+        "UnemploymentRate": 6.3,
+        "Year": 2014
+    },
+    {
+        "Month": "May",
+        "UnemploymentRate": 5.6,
+        "Year": 2015
+    },
+    {
+        "Month": "May",
+        "UnemploymentRate": 4.8,
+        "Year": 2016
+    },
+    {
+        "Month": "May",
+        "UnemploymentRate": 4.4,
+        "Year": 2017
+    },
+    {
+        "Month": "May",
+        "UnemploymentRate": 3.8,
+        "Year": 2018
+    },
+    {
+        "Month": "May",
+        "UnemploymentRate": 3.7,
+        "Year": 2019
+    },
+    {
+        "Month": "May",
+        "UnemploymentRate": 13.2,
+        "Year": 2020
+    },
+    {
+        "Month": "May",
+        "UnemploymentRate": 5.8,
+        "Year": 2021
+    },
+    {
+        "Month": "May",
+        "UnemploymentRate": 3.6,
+        "Year": 2022
+    },
+    {
+        "Month": "May",
+        "UnemploymentRate": 3.7,
+        "Year": 2023
+    },
+    {
+        "Month": "Jun",
+        "UnemploymentRate": 7.5,
+        "Year": 2013
+    },
+    {
+        "Month": "Jun",
+        "UnemploymentRate": 6.1,
+        "Year": 2014
+    },
+    {
+        "Month": "Jun",
+        "UnemploymentRate": 5.3,
+        "Year": 2015
+    },
+    {
+        "Month": "Jun",
+        "UnemploymentRate": 4.9,
+        "Year": 2016
+    },
+    {
+        "Month": "Jun",
+        "UnemploymentRate": 4.3,
+        "Year": 2017
+    },
+    {
+        "Month": "Jun",
+        "UnemploymentRate": 4.0,
+        "Year": 2018
+    },
+    {
+        "Month": "Jun",
+        "UnemploymentRate": 3.6,
+        "Year": 2019
+    },
+    {
+        "Month": "Jun",
+        "UnemploymentRate": 11.0,
+        "Year": 2020
+    },
+    {
+        "Month": "Jun",
+        "UnemploymentRate": 5.9,
+        "Year": 2021
+    },
+    {
+        "Month": "Jun",
+        "UnemploymentRate": 3.6,
+        "Year": 2022
+    },
+    {
+        "Month": "Jun",
+        "UnemploymentRate": 3.6,
+        "Year": 2023
+    },
+    {
+        "Month": "Jul",
+        "UnemploymentRate": 7.3,
+        "Year": 2013
+    },
+    {
+        "Month": "Jul",
+        "UnemploymentRate": 6.2,
+        "Year": 2014
+    },
+    {
+        "Month": "Jul",
+        "UnemploymentRate": 5.2,
+        "Year": 2015
+    },
+    {
+        "Month": "Jul",
+        "UnemploymentRate": 4.8,
+        "Year": 2016
+    },
+    {
+        "Month": "Jul",
+        "UnemploymentRate": 4.3,
+        "Year": 2017
+    },
+    {
+        "Month": "Jul",
+        "UnemploymentRate": 3.8,
+        "Year": 2018
+    },
+    {
+        "Month": "Jul",
+        "UnemploymentRate": 3.7,
+        "Year": 2019
+    },
+    {
+        "Month": "Jul",
+        "UnemploymentRate": 10.2,
+        "Year": 2020
+    },
+    {
+        "Month": "Jul",
+        "UnemploymentRate": 5.4,
+        "Year": 2021
+    },
+    {
+        "Month": "Jul",
+        "UnemploymentRate": 3.5,
+        "Year": 2022
+    },
+    {
+        "Month": "Jul",
+        "UnemploymentRate": 3.5,
+        "Year": 2023
+    },
+    {
+        "Month": "Aug",
+        "UnemploymentRate": 7.2,
+        "Year": 2013
+    },
+    {
+        "Month": "Aug",
+        "UnemploymentRate": 6.1,
+        "Year": 2014
+    },
+    {
+        "Month": "Aug",
+        "UnemploymentRate": 5.1,
+        "Year": 2015
+    },
+    {
+        "Month": "Aug",
+        "UnemploymentRate": 4.9,
+        "Year": 2016
+    },
+    {
+        "Month": "Aug",
+        "UnemploymentRate": 4.4,
+        "Year": 2017
+    },
+    {
+        "Month": "Aug",
+        "UnemploymentRate": 3.8,
+        "Year": 2018
+    },
+    {
+        "Month": "Aug",
+        "UnemploymentRate": 3.7,
+        "Year": 2019
+    },
+    {
+        "Month": "Aug",
+        "UnemploymentRate": 8.4,
+        "Year": 2020
+    },
+    {
+        "Month": "Aug",
+        "UnemploymentRate": 5.2,
+        "Year": 2021
+    },
+    {
+        "Month": "Aug",
+        "UnemploymentRate": 3.7,
+        "Year": 2022
+    },
+    {
+        "Month": "Aug",
+        "UnemploymentRate": 3.8,
+        "Year": 2023
+    },
+    {
+        "Month": "Sep",
+        "UnemploymentRate": 7.2,
+        "Year": 2013
+    },
+    {
+        "Month": "Sep",
+        "UnemploymentRate": 5.9,
+        "Year": 2014
+    },
+    {
+        "Month": "Sep",
+        "UnemploymentRate": 5.0,
+        "Year": 2015
+    },
+    {
+        "Month": "Sep",
+        "UnemploymentRate": 5.0,
+        "Year": 2016
+    },
+    {
+        "Month": "Sep",
+        "UnemploymentRate": 4.3,
+        "Year": 2017
+    },
+    {
+        "Month": "Sep",
+        "UnemploymentRate": 3.7,
+        "Year": 2018
+    },
+    {
+        "Month": "Sep",
+        "UnemploymentRate": 3.5,
+        "Year": 2019
+    },
+    {
+        "Month": "Sep",
+        "UnemploymentRate": 7.9,
+        "Year": 2020
+    },
+    {
+        "Month": "Sep",
+        "UnemploymentRate": 4.8,
+        "Year": 2021
+    },
+    {
+        "Month": "Sep",
+        "UnemploymentRate": 3.5,
+        "Year": 2022
+    },
+    {
+        "Month": "Sep",
+        "UnemploymentRate": 3.8,
+        "Year": 2023
+    },
+    {
+        "Month": "Oct",
+        "UnemploymentRate": 7.2,
+        "Year": 2013
+    },
+    {
+        "Month": "Oct",
+        "UnemploymentRate": 5.7,
+        "Year": 2014
+    },
+    {
+        "Month": "Oct",
+        "UnemploymentRate": 5.0,
+        "Year": 2015
+    },
+    {
+        "Month": "Oct",
+        "UnemploymentRate": 4.9,
+        "Year": 2016
+    },
+    {
+        "Month": "Oct",
+        "UnemploymentRate": 4.2,
+        "Year": 2017
+    },
+    {
+        "Month": "Oct",
+        "UnemploymentRate": 3.8,
+        "Year": 2018
+    },
+    {
+        "Month": "Oct",
+        "UnemploymentRate": 3.6,
+        "Year": 2019
+    },
+    {
+        "Month": "Oct",
+        "UnemploymentRate": 6.9,
+        "Year": 2020
+    },
+    {
+        "Month": "Oct",
+        "UnemploymentRate": 4.5,
+        "Year": 2021
+    },
+    {
+        "Month": "Oct",
+        "UnemploymentRate": 3.7,
+        "Year": 2022
+    },
+    {
+        "Month": "Oct",
+        "UnemploymentRate": 3.9,
+        "Year": 2023
+    },
+    {
+        "Month": "Nov",
+        "UnemploymentRate": 6.9,
+        "Year": 2013
+    },
+    {
+        "Month": "Nov",
+        "UnemploymentRate": 5.8,
+        "Year": 2014
+    },
+    {
+        "Month": "Nov",
+        "UnemploymentRate": 5.1,
+        "Year": 2015
+    },
+    {
+        "Month": "Nov",
+        "UnemploymentRate": 4.7,
+        "Year": 2016
+    },
+    {
+        "Month": "Nov",
+        "UnemploymentRate": 4.2,
+        "Year": 2017
+    },
+    {
+        "Month": "Nov",
+        "UnemploymentRate": 3.8,
+        "Year": 2018
+    },
+    {
+        "Month": "Nov",
+        "UnemploymentRate": 3.6,
+        "Year": 2019
+    },
+    {
+        "Month": "Nov",
+        "UnemploymentRate": 6.7,
+        "Year": 2020
+    },
+    {
+        "Month": "Nov",
+        "UnemploymentRate": 4.2,
+        "Year": 2021
+    },
+    {
+        "Month": "Nov",
+        "UnemploymentRate": 3.6,
+        "Year": 2022
+    },
+    {
+        "Month": "Nov",
+        "UnemploymentRate": null,
+        "Year": 2023
+    },
+    {
+        "Month": "Dec",
+        "UnemploymentRate": 6.7,
+        "Year": 2013
+    },
+    {
+        "Month": "Dec",
+        "UnemploymentRate": 5.6,
+        "Year": 2014
+    },
+    {
+        "Month": "Dec",
+        "UnemploymentRate": 5.0,
+        "Year": 2015
+    },
+    {
+        "Month": "Dec",
+        "UnemploymentRate": 4.7,
+        "Year": 2016
+    },
+    {
+        "Month": "Dec",
+        "UnemploymentRate": 4.1,
+        "Year": 2017
+    },
+    {
+        "Month": "Dec",
+        "UnemploymentRate": 3.9,
+        "Year": 2018
+    },
+    {
+        "Month": "Dec",
+        "UnemploymentRate": 3.6,
+        "Year": 2019
+    },
+    {
+        "Month": "Dec",
+        "UnemploymentRate": 6.7,
+        "Year": 2020
+    },
+    {
+        "Month": "Dec",
+        "UnemploymentRate": 3.9,
+        "Year": 2021
+    },
+    {
+        "Month": "Dec",
+        "UnemploymentRate": 3.5,
+        "Year": 2022
+    },
+    {
+        "Month": "Dec",
+        "UnemploymentRate": null,
+        "Year": 2023
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "AirForceAttained": "8,216",
+        "ArmyAttained": "12,963",
+        "FY": 2023,
+        "MarineCorpsAttained": "6,213",
+        "NavyAttained": "6,996"
+    },
+    {
+        "AirForceAttained": "12,799",
+        "ArmyAttained": "15,847",
+        "FY": 2022,
+        "MarineCorpsAttained": "11,735",
+        "NavyAttained": "15,252"
+    },
+    {
+        "AirForceAttained": "13,933",
+        "ArmyAttained": "24,851",
+        "FY": 2021,
+        "MarineCorpsAttained": "14,088",
+        "NavyAttained": "16,279"
+    },
+    {
+        "AirForceAttained": "14,301",
+        "ArmyAttained": "27,346",
+        "FY": 2020,
+        "MarineCorpsAttained": "12,994",
+        "NavyAttained": "18,333"
+    },
+    {
+        "AirForceAttained": "15,681",
+        "ArmyAttained": "24,858",
+        "FY": 2019,
+        "MarineCorpsAttained": "14,035",
+        "NavyAttained": "17,784"
+    },
+    {
+        "AirForceAttained": "14,605",
+        "ArmyAttained": "27,191",
+        "FY": 2018,
+        "MarineCorpsAttained": "13,655",
+        "NavyAttained": "18,186"
+    },
+    {
+        "AirForceAttained": "15,105",
+        "ArmyAttained": "27,171",
+        "FY": 2017,
+        "MarineCorpsAttained": "13,414",
+        "NavyAttained": "15,028"
+    },
+    {
+        "AirForceAttained": "14,225",
+        "ArmyAttained": "26,068",
+        "FY": 2016,
+        "MarineCorpsAttained": "12,429",
+        "NavyAttained": "16,537"
+    },
+    {
+        "AirForceAttained": "17,495",
+        "ArmyAttained": "39,918",
+        "FY": 2015,
+        "MarineCorpsAttained": "21,025",
+        "NavyAttained": "25,380"
+    },
+    {
+        "AirForceAttained": "22,467",
+        "ArmyAttained": "50,290",
+        "FY": 2014,
+        "MarineCorpsAttained": "22,215",
+        "NavyAttained": "22,215"
+    },
+    {
+        "AirForceAttained": "21,969",
+        "ArmyAttained": "56,437",
+        "FY": 2013,
+        "MarineCorpsAttained": "24,785",
+        "NavyAttained": "32,692"
+    }
+]
